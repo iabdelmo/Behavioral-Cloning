@@ -57,7 +57,7 @@ My model is a modified version of Nvidia model used for end to end deep learning
 This is the original model of Nvidia 
 ![alt text][image1]
 
-####2. Attempts to reduce overfitting in the model
+#### 2. Attempts to reduce overfitting in the model
 
 I have added to the  Nvidia model dropout layers in order to reduce overfitting.
 
